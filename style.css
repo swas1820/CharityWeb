@@ -87,6 +87,11 @@ a {
     color: #FF5800;
 }
 
+#new{
+    color:#000000;
+
+}
+
 a:hover,
 a:focus {
     color: #c84600;
